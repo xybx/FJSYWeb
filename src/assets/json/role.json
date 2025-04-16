@@ -1,0 +1,144 @@
+{
+    "yw": [
+        {
+            "prop": "PID",
+            "label": "PID",
+            "width": "100"
+        },
+        {
+            "prop": "TITLE",
+            "label": "标题"
+        },
+        {
+            "prop": "CODE",
+            "label": "CODE"
+        },
+        {
+            "prop": "PATH",
+            "label": "路径"
+        }
+    ],
+    "xtcd": [
+        {
+            "prop": "ID",
+            "label": "ID",
+            "width": "100"
+        },
+        {
+            "prop": "TITLE",
+            "label": "标题"
+        },
+        {
+            "prop": "PATH",
+            "label": "路径"
+        },
+        {
+            "prop": "ORDERNUM",
+            "label": "排序"
+        }
+    ],
+    "dtfw": [
+        {
+            "prop": "PID",
+            "label": "PID",
+            "width": "100"
+        },
+        {
+            "prop": "NAME",
+            "label": "名称"
+        },
+        {
+            "prop": "URL",
+            "label": "服务地址"
+        }
+    ],
+    "hxxz": [
+        {
+            "prop": "PID",
+            "label": "PID",
+            "width": "100"
+        },
+        {
+            "prop": "SERVERNAME",
+            "label": "服务名称"
+        },
+        {
+            "prop": "CHILDTABLES",
+            "label": "子图层*要素表名称"
+        },
+        {
+            "prop": "WEBGIS_LAYERID",
+            "label": "空间数据库ID"
+        }
+    ],
+    "tjcx": [
+        {
+            "prop": "PID",
+            "label": "PID",
+            "width": "100"
+        },
+        {
+            "prop": "NAME",
+            "label": "名称"
+        },
+        {
+            "prop": "URL",
+            "label": "地址"
+        }
+    ],
+    "hgsc": [
+        {
+            "prop": "ID",
+            "label": "ID",
+            "width": "100"
+        },
+        {
+            "prop": "LAYERNAME",
+            "label": "图层名称"
+        },
+        {
+            "prop": "LAYERURL",
+            "label": "图层地址"
+        },
+        {
+            "prop": "REGULATION",
+            "label": "规则"
+        },
+        {
+            "prop": "CHILDID",
+            "label": "CHILDID"
+        }
+    ],
+    "xmhc": [],
+    "jcyj": [],
+    "fxpj": [
+        {
+            "prop": "PID",
+            "label": "PID",
+            "width": "100"
+        },
+        {
+            "prop": "NAME",
+            "label": "名称"
+        },
+        {
+            "prop": "URL",
+            "label": "地址"
+        }
+    ],
+    "cxdw": [
+        {
+            "prop": "ID",
+            "label": "ID",
+            "width": "100"
+        },
+        {
+            "prop": "LAYERNAME",
+            "label": "名称"
+        },
+        {
+            "prop": "URL",
+            "label": "地址"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "3160603",
+  "name": "标准版运维",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9764543",
+      "name": "公众服务",
+      "font_class": "gongzhongfuwu",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "3032758",
+      "name": "安全管理",
+      "font_class": "anquanguanli",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "6429042",
+      "name": "基础配置",
+      "font_class": "ziyuan",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "8412829",
+      "name": "分析评价",
+      "font_class": "fenxipingjia",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "9118054",
+      "name": "系统配置",
+      "font_class": "xitongpeizhi",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "10070174",
+      "name": "指标模型管理",
+      "font_class": "zhibiaomoxingguanli",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "10801270",
+      "name": "监测预警",
+      "font_class": "jianceyujing",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "12057460",
+      "name": "数据资源",
+      "font_class": "shujuziyuan",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "20853344",
+      "name": "日志管理",
+      "font_class": "rizhiguanli",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "25694163",
+      "name": "统一平台",
+      "font_class": "tongyipingtai",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "27193563",
+      "name": "规划审查辅助",
+      "font_class": "guihuashencha",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    }
+  ]
+}
